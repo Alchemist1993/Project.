@@ -1,3 +1,4 @@
+//*region is the transcription of the region in the code editor
 //#region nav links
 export const HOME_PAGE_LINK = document.querySelector("#home-link");
 export const ABOUT_PAGE_LINK = document.querySelector("#about-page-link");
@@ -8,3 +9,4 @@ export const ABOUT_PAGE_LINK = document.querySelector("#about-page-link");
 export const HOME_PAGE = document.querySelector("#home-page");
 export const ABOUT_PAGE = document.querySelector("#about-page");
 //#endregion
+

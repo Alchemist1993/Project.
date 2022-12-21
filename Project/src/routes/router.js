@@ -1,3 +1,5 @@
+//*Router is the `Tsomet` of the application. It is responsible for the navigation between pages.
+
 import PAGES from "../models/pageModel.js";
 import { HOME_PAGE, ABOUT_PAGE } from "../services/domService.js";
 
