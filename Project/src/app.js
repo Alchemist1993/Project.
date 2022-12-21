@@ -7,4 +7,4 @@ import { onChangePage } from "./routes/router.js";
 HOME_PAGE_LINK.addEventListener("click", () => onChangePage(PAGES.HOME));
 ABOUT_PAGE_LINK.addEventListener("click", () => onChangePage(PAGES.ABOUT));
 
-//*endregion
+//*endregion.

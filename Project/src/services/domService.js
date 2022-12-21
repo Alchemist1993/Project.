@@ -1,4 +1,4 @@
-//*.region is the transcription of the region in the code editor
+//*.region is the transcription of the region in the code editor.
 //#region nav links
 export const HOME_PAGE_LINK = document.querySelector("#home-link");
 export const ABOUT_PAGE_LINK = document.querySelector("#about-page-link");
