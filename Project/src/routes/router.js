@@ -1,4 +1,4 @@
-//*.Router is the `Tsomet` of the application. It is responsible for the navigation between pages..
+//*.Router is the `Tsomet` of the application. It is responsible for the navigation between pages...
 
 import PAGES from "../models/pageModel.js";
 import {

@@ -20,4 +20,4 @@ export const ERROR_404_PAGE = document.querySelector("#error-404-page");
 export const LINK_HOME_PAGE = document.querySelector(
   "#return-to-home-page-link"
 );
-//#endregion
+//#endregion.

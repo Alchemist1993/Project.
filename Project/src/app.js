@@ -16,4 +16,4 @@ ABOUT_PAGE_LINK.addEventListener("click", () => onChangePage(PAGES.ABOUT));
 PIC_PAGE_LINK.addEventListener("click", () => onChangePage(PAGES.PIC));
 LOGIN_PAGE_LINK.addEventListener("click", () => onChangePage(PAGES.LOGIN));
 LINK_HOME_PAGE.addEventListener(`click`, () => onChangePage(PAGES.HOME));
-//*endregion.
+//*endregion..
